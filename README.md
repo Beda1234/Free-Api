@@ -23,5 +23,5 @@ https://apis.guru/
 offers a curated directory with helpful search filters to narrow down your options based on category, pricing, and authentication type.
 
 # MapQuest 
-[https://www.mapquest.com/](https://developer.mapquest.com/documentation/)
+https://www.mapquest.com/](https://developer.mapquest.com/documentation/
 offers a free tier for their mapping and geolocation APIs, useful for adding location-based functionalities to yourproject.
